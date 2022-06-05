@@ -6,3 +6,13 @@ RENCANA TAMBAHAN
 - Remote = sumber yang memiliki repo
 - Clone = mengirimkan commit ke repo
 - Pull = mengambil commit dari repo
+
+
+
+
+
+
+ini hanya sebuah contoh 
+
+- css
+- menambahkan fitur button
