@@ -6,3 +6,10 @@ RENCANA TAMBAHAN
 - Remote = sumber yang memiliki repo
 - Clone = mengirimkan commit ke repo
 - Pull = mengambil commit dari repo
+
+
+
+
+
+
+menurut saya kita akan menggunakan bahasa html
