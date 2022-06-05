@@ -1,0 +1,6 @@
+ISTILAH GITHUB
+
+-Repo = folder project kita
+-Commit = rekaman/snapshot repo kita
+-Hash = penanda unik pada sebuah commit
+-Chechkout = berpindah ke sebuah commit
