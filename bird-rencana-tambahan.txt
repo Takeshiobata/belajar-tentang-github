@@ -12,7 +12,5 @@ RENCANA TAMBAHAN
 
 
 
-ini hanya sebuah contoh 
 
-- css
-- menambahkan fitur button
+menurut saya kita akan menggunakan bahasa html
