@@ -1,6 +1,8 @@
 RENCANA TAMBAHAN
 
 - Merge = menggabungkan branch
+          *menggabungkan branch
+          *menggabungkan branch
 - Remote = sumber yang memiliki repo
 - Clone = mengirimkan commit ke repo
 - Pull = mengambil commit dari repo
