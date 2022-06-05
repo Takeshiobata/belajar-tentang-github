@@ -4,3 +4,4 @@ ISTILAH GITHUB
 -Commit = rekaman/snapshot repo kita
 -Hash = penanda unik pada sebuah commit
 -Chechkout = berpindah ke sebuah commit
+-Branch = cabang bebas dri sebuah commit
